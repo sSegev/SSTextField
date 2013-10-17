@@ -1,5 +1,5 @@
 //
-//  TBTextField.h
+//  SSTextField.h
 //
 //  Created by Segev on 10/15/13.
 //  Copyright (c) 2013 Segev. All rights reserved.
